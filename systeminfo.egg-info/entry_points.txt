@@ -1,0 +1,3 @@
+[console_scripts]
+Practicals_systeminfo = systeminfo.main:main
+
